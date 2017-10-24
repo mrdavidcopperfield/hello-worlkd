@@ -1,2 +1,2 @@
 # hello-worlkd
-Just another repository
+Hi!  I'm working on my first github repository.  Thank you for putting together a tutorial!!
